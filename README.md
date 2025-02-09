@@ -1,2 +1,1 @@
-# PrecursoHenry
-este es un repositorio de prueba del modulo 2 de Henry
+Este es una prueba de como crear un repositorio y clonar de Github a mi computadora.
